@@ -3,7 +3,7 @@ Aqui farei um código teste para tabuada
 
 ##Codigo para Tabuada
 
-#include <studio.h>
+#include <stdio.h>
 
 int main() {
     int numero, i;
